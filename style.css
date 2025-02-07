@@ -75,7 +75,7 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #d62828;
+  color: red;
 }
 
 nav a:hover {
@@ -131,8 +131,8 @@ footer p {
   text-align: center;
 }
 
-a:link {
-  color: #d62828;
+a:link, a {
+  color: red;
 }
 
 a:hover {
